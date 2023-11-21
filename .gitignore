@@ -1,3 +1,4 @@
 .pkl
 plots_*
 .json
+.ipynb_checkpoints
