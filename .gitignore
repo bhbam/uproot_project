@@ -2,3 +2,4 @@
 plots_*
 .json
 .ipynb_checkpoints
+jupy.sh
